@@ -9,7 +9,7 @@ This repository accompanies the article "Nine and Ten Lonely Runners" by Tanupat
 
 ``results_nine.txt`` is the receipt of our own run that allows us to conclude in Section 5 of the paper that $I(8,9,p)$ is empty for all $p\in S_8$. 
 
-By replacing ``nine`` with ``ten`` in the file names, we have the same for 10 runners.
+The same applies for 10 runners, if we replace ``nine`` with ``ten`` in the file names.
 
 
 ## Verifying our results
