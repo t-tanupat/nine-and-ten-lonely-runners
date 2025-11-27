@@ -3,13 +3,13 @@
 This repository accompanies the article "Nine and Ten Lonely Runners" by Tanupat (Paul) Trakulthongchai. Our code is developed based on the [code](https://gite.lirmm.fr/mrosenfeld/the-lonely-runner-conjecture) provided by Matthieu Rosenfeld.
 
 ## Files
-``lrc_for_nine_runners.cpp`` is the main code that checks whether $I(8,9,p)$ is empty.
+``lrc_for_nine_runners.cpp`` is the main code that checks whether $I(k,k+1,p)$ is empty for $k=8$.
 
 ``meta_lrc_nine.sh`` is the bash script that runs ``lrc_for_nine_runners.cpp`` for a fixed $k$ and a list of primes.
 
-``results_nine.txt`` is the receipt of our own run that allows us to conclude in Section 5 of the paper that $I(8,9,p)$ is empty for all $p\in S_8$. 
+``results_nine.txt`` is the receipt of our own run that allows us to conclude in Section 5 of the paper that $I(k,k+1,p)$ is empty for all $p\in S_k$ for $k=8$. 
 
-The same applies for 10 runners, if we replace ``nine`` with ``ten`` in the file names.
+The same applies for 10 runners, if we replace ``nine`` with ``ten`` in the file names (and $k=8$ with $k=9$).
 
 
 ## Verifying our results
