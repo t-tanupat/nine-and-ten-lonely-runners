@@ -1,6 +1,6 @@
 # Nine and Ten Lonely Runners Code
 
-This repository accompanies the article "Nine and Ten Lonely Runners" by Tanupat (Paul) Trakulthongchai. Our code is developed based on the [code](https://gite.lirmm.fr/mrosenfeld/the-lonely-runner-conjecture) provided by Matthieu Rosenfeld.
+This repository accompanies the article "[Nine and Ten Lonely Runners](https://arxiv.org/abs/2511.22427)" by Tanupat (Paul) Trakulthongchai. Our code is developed based on the [code](https://gite.lirmm.fr/mrosenfeld/the-lonely-runner-conjecture) provided by Matthieu Rosenfeld.
 
 ## Files
 ``lrc_for_nine_runners.cpp`` is the main code that checks whether $I(k,k+1,p)$ is empty for $k=8$.
