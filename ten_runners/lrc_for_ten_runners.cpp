@@ -315,8 +315,13 @@ static vector<vector<int>> intersection_of_extensions_parallel(
     int k = (int)seedsA[0].size();
 
     auto make_res_key = [&](const vector<int> &v)->string{
+        // Tuple values are sorted, but their residues need not be.
+        // Match residue multisets, preserving repeated residues.
+        vector<int> residues(k);
+        for(int i=0;i<k;++i) residues[i] = v[i] % p;
+        sort(residues.begin(), residues.end());
         string s; s.reserve(k*4);
-        for(int i=0;i<k;++i){ if(i) s.push_back(','); s += to_string(v[i] % p); }
+        for(int i=0;i<k;++i){ if(i) s.push_back(','); s += to_string(residues[i]); }
         return s;
     };
 
@@ -345,8 +350,8 @@ static vector<vector<int>> intersection_of_extensions_parallel(
         vector<int> ext(k);
         for(size_t ki = lo; ki < hi; ++ki){
             const string &key = keys[ki];
-            const auto &idxsA = mapA[key];
-            const auto &idxsB = mapB[key];
+            const auto &idxsA = mapA.at(key);
+            const auto &idxsB = mapB.at(key);
 
             // pick smaller side to materialize
             const vector<int> *small_idxs = &idxsA;
@@ -356,7 +361,10 @@ static vector<vector<int>> intersection_of_extensions_parallel(
             const vector<vector<int>> *seedsSmall = &seedsA;
             const vector<vector<int>> *seedsLarge = &seedsB;
 
-            if(idxsB.size() < idxsA.size()){
+            // Compare extension counts, not just numbers of base tuples.
+            long double costA = idxsA.size(), costB = idxsB.size();
+            for(int i=0;i<k;++i){ costA *= mA; costB *= mB; }
+            if(costB < costA){
                 small_idxs = &idxsB; large_idxs = &idxsA;
                 multSmall = multB; mSmall = mB;
                 multLarge = multA; mLarge = mA;
