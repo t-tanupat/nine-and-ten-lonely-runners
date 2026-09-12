@@ -1,0 +1,800 @@
+=== RUN START: 2026-09-08T22:51:17+01:00 | prime=137 | K=9 ===
+Compiling (PRIME=137 K=9) ...
+=== EXECUTING: binary for PRIME=137 ===
+Execution start: 2026-09-08T22:51:18+01:00
+Parameters: p=137, k=9 (k+1 = 10)
+Step1 (n=1): S size = 62560  (time 2.87206 s)
+Step2a (n=2,m=2): T size = 340  (time 1.09093 s)
+Step2b (n=5,m=5): U size = 544  (time 5370.26 s)
+Step3 (optimized intersection) size = 272  (time 4.40051 s)
+Step4 (n=10): final covers size = 0  (time 0.00271962 s)
+No final cover found in intersection.
+Times summary: step1=2.87206 s, step2a=1.09093 s, step2b=5370.26 s, step3(intersection)=4.40051 s, step4=0.00271962 s
+Execution end: 2026-09-09T00:20:57+01:00
+Status: OK
+Runtime_seconds: 5378.951
+=== RUN END: prime=137 | runtime=5378.951s ===
+
+=== RUN START: 2026-09-09T00:20:57+01:00 | prime=139 | K=9 ===
+Compiling (PRIME=139 K=9) ...
+=== EXECUTING: binary for PRIME=139 ===
+Execution start: 2026-09-09T00:21:00+01:00
+Parameters: p=139, k=9 (k+1 = 10)
+Step1 (n=1): S size = 35903  (time 2.43629 s)
+Step2a (n=2,m=2): T size = 207  (time 0.476989 s)
+Step2b (n=5,m=5): U size = 276  (time 3142.6 s)
+Step3 (optimized intersection) size = 276  (time 4.50286 s)
+Step4 (n=10): final covers size = 0  (time 0.00340208 s)
+No final cover found in intersection.
+Times summary: step1=2.43629 s, step2a=0.476989 s, step2b=3142.6 s, step3(intersection)=4.50286 s, step4=0.00340208 s
+Execution end: 2026-09-09T01:13:30+01:00
+Status: OK
+Runtime_seconds: 3150.628
+=== RUN END: prime=139 | runtime=3150.628s ===
+
+=== RUN START: 2026-09-09T01:13:30+01:00 | prime=149 | K=9 ===
+Compiling (PRIME=149 K=9) ...
+=== EXECUTING: binary for PRIME=149 ===
+Execution start: 2026-09-09T01:13:32+01:00
+Parameters: p=149, k=9 (k+1 = 10)
+Step1 (n=1): S size = 30562  (time 3.9868 s)
+Step2a (n=2,m=2): T size = 740  (time 0.492581 s)
+Step2b (n=5,m=5): U size = 296  (time 2187.6 s)
+Step3 (optimized intersection) size = 296  (time 3.58048 s)
+Step4 (n=10): final covers size = 0  (time 0.00459996 s)
+No final cover found in intersection.
+Times summary: step1=3.9868 s, step2a=0.492581 s, step2b=2187.6 s, step3(intersection)=3.58048 s, step4=0.00459996 s
+Execution end: 2026-09-09T01:50:08+01:00
+Status: OK
+Runtime_seconds: 2196.129
+=== RUN END: prime=149 | runtime=2196.129s ===
+
+=== RUN START: 2026-09-09T01:50:08+01:00 | prime=151 | K=9 ===
+Compiling (PRIME=151 K=9) ...
+=== EXECUTING: binary for PRIME=151 ===
+Execution start: 2026-09-09T01:50:10+01:00
+Parameters: p=151, k=9 (k+1 = 10)
+Step1 (n=1): S size = 277350  (time 9.784 s)
+Step2a (n=2,m=2): T size = 1575  (time 4.08653 s)
+Step2b (n=5,m=5): U size = 300  (time 42750.6 s)
+Step3 (optimized intersection) size = 900  (time 14.5017 s)
+Step4 (n=10): final covers size = 0  (time 0.00571017 s)
+No final cover found in intersection.
+Times summary: step1=9.784 s, step2a=4.08653 s, step2b=42750.6 s, step3(intersection)=14.5017 s, step4=0.00571017 s
+Execution end: 2026-09-09T13:43:10+01:00
+Status: OK
+Runtime_seconds: 42780.011
+=== RUN END: prime=151 | runtime=42780.011s ===
+
+=== RUN START: 2026-09-09T13:43:10+01:00 | prime=157 | K=9 ===
+Compiling (PRIME=157 K=9) ...
+=== EXECUTING: binary for PRIME=157 ===
+Execution start: 2026-09-09T13:43:12+01:00
+Parameters: p=157, k=9 (k+1 = 10)
+Step1 (n=1): S size = 36972  (time 6.39478 s)
+Step2a (n=2,m=2): T size = 390  (time 0.658584 s)
+Step2b (n=5,m=5): U size = 312  (time 3367 s)
+Step3 (optimized intersection) size = 312  (time 4.98914 s)
+Step4 (n=10): final covers size = 0  (time 0.00332304 s)
+No final cover found in intersection.
+Times summary: step1=6.39478 s, step2a=0.658584 s, step2b=3367 s, step3(intersection)=4.98914 s, step4=0.00332304 s
+Execution end: 2026-09-09T14:39:31+01:00
+Status: OK
+Runtime_seconds: 3379.528
+=== RUN END: prime=157 | runtime=3379.528s ===
+
+=== RUN START: 2026-09-09T14:39:31+01:00 | prime=163 | K=9 ===
+Compiling (PRIME=163 K=9) ...
+=== EXECUTING: binary for PRIME=163 ===
+Execution start: 2026-09-09T14:39:33+01:00
+Parameters: p=163, k=9 (k+1 = 10)
+Step1 (n=1): S size = 81405  (time 11.0629 s)
+Step2a (n=2,m=2): T size = 486  (time 1.42744 s)
+Step2b (n=5,m=5): U size = 648  (time 6705.14 s)
+Step3 (optimized intersection) size = 648  (time 8.08549 s)
+Step4 (n=10): final covers size = 0  (time 0.00281604 s)
+No final cover found in intersection.
+Times summary: step1=11.0629 s, step2a=1.42744 s, step2b=6705.14 s, step3(intersection)=8.08549 s, step4=0.00281604 s
+Execution end: 2026-09-09T16:31:40+01:00
+Status: OK
+Runtime_seconds: 6726.434
+=== RUN END: prime=163 | runtime=6726.434s ===
+
+=== RUN START: 2026-09-09T16:31:40+01:00 | prime=167 | K=9 ===
+Compiling (PRIME=167 K=9) ...
+=== EXECUTING: binary for PRIME=167 ===
+Execution start: 2026-09-09T16:31:41+01:00
+Parameters: p=167, k=9 (k+1 = 10)
+Step1 (n=1): S size = 18260  (time 9.01076 s)
+Step2a (n=2,m=2): T size = 581  (time 0.331712 s)
+Step2b (n=5,m=5): U size = 332  (time 1397.22 s)
+Step3 (optimized intersection) size = 996  (time 16.2952 s)
+Step4 (n=10): final covers size = 0  (time 0.00357708 s)
+No final cover found in intersection.
+Times summary: step1=9.01076 s, step2a=0.331712 s, step2b=1397.22 s, step3(intersection)=16.2952 s, step4=0.00357708 s
+Execution end: 2026-09-09T16:55:25+01:00
+Status: OK
+Runtime_seconds: 1423.356
+=== RUN END: prime=167 | runtime=1423.356s ===
+
+=== RUN START: 2026-09-09T16:55:25+01:00 | prime=173 | K=9 ===
+Compiling (PRIME=173 K=9) ...
+=== EXECUTING: binary for PRIME=173 ===
+Execution start: 2026-09-09T16:55:26+01:00
+Parameters: p=173, k=9 (k+1 = 10)
+Step1 (n=1): S size = 41108  (time 14.498 s)
+Step2a (n=2,m=2): T size = 344  (time 0.587713 s)
+Step2b (n=5,m=5): U size = 344  (time 3620.49 s)
+Step3 (optimized intersection) size = 344  (time 4.26441 s)
+Step4 (n=10): final covers size = 0  (time 0.00354421 s)
+No final cover found in intersection.
+Times summary: step1=14.498 s, step2a=0.587713 s, step2b=3620.49 s, step3(intersection)=4.26441 s, step4=0.00354421 s
+Execution end: 2026-09-09T17:56:07+01:00
+Status: OK
+Runtime_seconds: 3640.690
+=== RUN END: prime=173 | runtime=3640.690s ===
+
+=== RUN START: 2026-09-09T17:56:07+01:00 | prime=179 | K=9 ===
+Compiling (PRIME=179 K=9) ...
+=== EXECUTING: binary for PRIME=179 ===
+Execution start: 2026-09-09T17:56:09+01:00
+Parameters: p=179, k=9 (k+1 = 10)
+Step1 (n=1): S size = 4539  (time 10.6814 s)
+Step2a (n=2,m=2): T size = 178  (time 0.0809382 s)
+Step2b (n=5,m=5): U size = 356  (time 401.37 s)
+Step3 (optimized intersection) size = 356  (time 6.06173 s)
+Step4 (n=10): final covers size = 0  (time 0.00373396 s)
+No final cover found in intersection.
+Times summary: step1=10.6814 s, step2a=0.0809382 s, step2b=401.37 s, step3(intersection)=6.06173 s, step4=0.00373396 s
+Execution end: 2026-09-09T18:03:07+01:00
+Status: OK
+Runtime_seconds: 418.619
+=== RUN END: prime=179 | runtime=418.619s ===
+
+=== RUN START: 2026-09-09T18:03:07+01:00 | prime=181 | K=9 ===
+Compiling (PRIME=181 K=9) ...
+=== EXECUTING: binary for PRIME=181 ===
+Execution start: 2026-09-09T18:03:09+01:00
+Parameters: p=181, k=9 (k+1 = 10)
+Step1 (n=1): S size = 45240  (time 23.0183 s)
+Step2a (n=2,m=2): T size = 360  (time 0.699434 s)
+Step2b (n=5,m=5): U size = 360  (time 3990.33 s)
+Step3 (optimized intersection) size = 360  (time 6.39876 s)
+Step4 (n=10): final covers size = 0  (time 0.00382637 s)
+No final cover found in intersection.
+Times summary: step1=23.0183 s, step2a=0.699434 s, step2b=3990.33 s, step3(intersection)=6.39876 s, step4=0.00382637 s
+Execution end: 2026-09-09T19:10:10+01:00
+Status: OK
+Runtime_seconds: 4020.993
+=== RUN END: prime=181 | runtime=4020.993s ===
+
+=== RUN START: 2026-09-09T19:10:10+01:00 | prime=191 | K=9 ===
+Compiling (PRIME=191 K=9) ...
+=== EXECUTING: binary for PRIME=191 ===
+Execution start: 2026-09-09T19:10:12+01:00
+Parameters: p=191, k=9 (k+1 = 10)
+Step1 (n=1): S size = 25840  (time 29.067 s)
+Step2a (n=2,m=2): T size = 570  (time 0.445153 s)
+Step2b (n=5,m=5): U size = 380  (time 2244.47 s)
+Step3 (optimized intersection) size = 380  (time 7.38197 s)
+Step4 (n=10): final covers size = 0  (time 0.00480021 s)
+No final cover found in intersection.
+Times summary: step1=29.067 s, step2a=0.445153 s, step2b=2244.47 s, step3(intersection)=7.38197 s, step4=0.00480021 s
+Execution end: 2026-09-09T19:48:14+01:00
+Status: OK
+Runtime_seconds: 2281.830
+=== RUN END: prime=191 | runtime=2281.830s ===
+
+=== RUN START: 2026-09-09T19:48:14+01:00 | prime=193 | K=9 ===
+Compiling (PRIME=193 K=9) ...
+=== EXECUTING: binary for PRIME=193 ===
+Execution start: 2026-09-09T19:48:16+01:00
+Parameters: p=193, k=9 (k+1 = 10)
+Step1 (n=1): S size = 11808  (time 25.8999 s)
+Step2a (n=2,m=2): T size = 192  (time 0.245475 s)
+Step2b (n=5,m=5): U size = 384  (time 927.281 s)
+Step3 (optimized intersection) size = 384  (time 6.93164 s)
+Step4 (n=10): final covers size = 0  (time 0.00414996 s)
+No final cover found in intersection.
+Times summary: step1=25.8999 s, step2a=0.245475 s, step2b=927.281 s, step3(intersection)=6.93164 s, step4=0.00414996 s
+Execution end: 2026-09-09T20:04:16+01:00
+Status: OK
+Runtime_seconds: 960.801
+=== RUN END: prime=193 | runtime=960.801s ===
+
+=== RUN START: 2026-09-09T20:04:16+01:00 | prime=197 | K=9 ===
+Compiling (PRIME=197 K=9) ...
+=== EXECUTING: binary for PRIME=197 ===
+Execution start: 2026-09-09T20:04:18+01:00
+Parameters: p=197, k=9 (k+1 = 10)
+Step1 (n=1): S size = 2450  (time 22.4443 s)
+Step2a (n=2,m=2): T size = 294  (time 0.0533488 s)
+Step2b (n=5,m=5): U size = 392  (time 199.926 s)
+Step3 (optimized intersection) size = 392  (time 5.04359 s)
+Step4 (n=10): final covers size = 0  (time 0.00409229 s)
+No final cover found in intersection.
+Times summary: step1=22.4443 s, step2a=0.0533488 s, step2b=199.926 s, step3(intersection)=5.04359 s, step4=0.00409229 s
+Execution end: 2026-09-09T20:08:06+01:00
+Status: OK
+Runtime_seconds: 227.925
+=== RUN END: prime=197 | runtime=227.925s ===
+
+=== RUN START: 2026-09-09T20:08:06+01:00 | prime=199 | K=9 ===
+Compiling (PRIME=199 K=9) ...
+=== EXECUTING: binary for PRIME=199 ===
+Execution start: 2026-09-09T20:08:08+01:00
+Parameters: p=199, k=9 (k+1 = 10)
+Step1 (n=1): S size = 1980  (time 20.9806 s)
+Step2a (n=2,m=2): T size = 99  (time 0.0345945 s)
+Step2b (n=5,m=5): U size = 396  (time 150.819 s)
+Step3 (optimized intersection) size = 396  (time 7.03958 s)
+Step4 (n=10): final covers size = 0  (time 0.00580567 s)
+No final cover found in intersection.
+Times summary: step1=20.9806 s, step2a=0.0345945 s, step2b=150.819 s, step3(intersection)=7.03958 s, step4=0.00580567 s
+Execution end: 2026-09-09T20:11:07+01:00
+Status: OK
+Runtime_seconds: 179.320
+=== RUN END: prime=199 | runtime=179.320s ===
+
+=== RUN START: 2026-09-09T20:11:07+01:00 | prime=211 | K=9 ===
+Compiling (PRIME=211 K=9) ...
+=== EXECUTING: binary for PRIME=211 ===
+Execution start: 2026-09-09T20:11:09+01:00
+Parameters: p=211, k=9 (k+1 = 10)
+Step1 (n=1): S size = 12950  (time 53.1335 s)
+Step2a (n=2,m=2): T size = 210  (time 0.27347 s)
+Step2b (n=5,m=5): U size = 420  (time 1087.63 s)
+Step3 (optimized intersection) size = 420  (time 6.13014 s)
+Step4 (n=10): final covers size = 0  (time 0.00641725 s)
+No final cover found in intersection.
+Times summary: step1=53.1335 s, step2a=0.27347 s, step2b=1087.63 s, step3(intersection)=6.13014 s, step4=0.00641725 s
+Execution end: 2026-09-09T20:30:17+01:00
+Status: OK
+Runtime_seconds: 1148.101
+=== RUN END: prime=211 | runtime=1148.101s ===
+
+=== RUN START: 2026-09-09T20:30:17+01:00 | prime=223 | K=9 ===
+Compiling (PRIME=223 K=9) ...
+=== EXECUTING: binary for PRIME=223 ===
+Execution start: 2026-09-09T20:30:18+01:00
+Parameters: p=223, k=9 (k+1 = 10)
+Step1 (n=1): S size = 8769  (time 67.2953 s)
+Step2a (n=2,m=2): T size = 222  (time 0.190314 s)
+Step2b (n=5,m=5): U size = 444  (time 714.224 s)
+Step3 (optimized intersection) size = 444  (time 6.06221 s)
+Step4 (n=10): final covers size = 0  (time 0.00550392 s)
+No final cover found in intersection.
+Times summary: step1=67.2953 s, step2a=0.190314 s, step2b=714.224 s, step3(intersection)=6.06221 s, step4=0.00550392 s
+Execution end: 2026-09-09T20:43:27+01:00
+Status: OK
+Runtime_seconds: 788.203
+=== RUN END: prime=223 | runtime=788.203s ===
+
+=== RUN START: 2026-09-09T20:43:27+01:00 | prime=227 | K=9 ===
+Compiling (PRIME=227 K=9) ...
+=== EXECUTING: binary for PRIME=227 ===
+Execution start: 2026-09-09T20:43:28+01:00
+Parameters: p=227, k=9 (k+1 = 10)
+Step1 (n=1): S size = 2486  (time 55.6533 s)
+Step2a (n=2,m=2): T size = 113  (time 0.0685532 s)
+Step2b (n=5,m=5): U size = 452  (time 221.909 s)
+Step3 (optimized intersection) size = 452  (time 7.36119 s)
+Step4 (n=10): final covers size = 0  (time 0.00559621 s)
+No final cover found in intersection.
+Times summary: step1=55.6533 s, step2a=0.0685532 s, step2b=221.909 s, step3(intersection)=7.36119 s, step4=0.00559621 s
+Execution end: 2026-09-09T20:48:14+01:00
+Status: OK
+Runtime_seconds: 285.389
+=== RUN END: prime=227 | runtime=285.389s ===
+
+=== RUN START: 2026-09-09T20:48:14+01:00 | prime=229 | K=9 ===
+Compiling (PRIME=229 K=9) ...
+=== EXECUTING: binary for PRIME=229 ===
+Execution start: 2026-09-09T20:48:15+01:00
+Parameters: p=229, k=9 (k+1 = 10)
+Step1 (n=1): S size = 798  (time 50.8119 s)
+Step2a (n=2,m=2): T size = 114  (time 0.014701 s)
+Step2b (n=5,m=5): U size = 456  (time 69.8068 s)
+Step3 (optimized intersection) size = 456  (time 5.76725 s)
+Step4 (n=10): final covers size = 0  (time 0.00539296 s)
+No final cover found in intersection.
+Times summary: step1=50.8119 s, step2a=0.014701 s, step2b=69.8068 s, step3(intersection)=5.76725 s, step4=0.00539296 s
+Execution end: 2026-09-09T20:50:22+01:00
+Status: OK
+Runtime_seconds: 126.843
+=== RUN END: prime=229 | runtime=126.843s ===
+
+=== RUN START: 2026-09-09T20:50:22+01:00 | prime=233 | K=9 ===
+Compiling (PRIME=233 K=9) ...
+=== EXECUTING: binary for PRIME=233 ===
+Execution start: 2026-09-09T20:50:24+01:00
+Parameters: p=233, k=9 (k+1 = 10)
+Step1 (n=1): S size = 3480  (time 84.9366 s)
+Step2a (n=2,m=2): T size = 116  (time 0.0561624 s)
+Step2b (n=5,m=5): U size = 464  (time 333.634 s)
+Step3 (optimized intersection) size = 464  (time 6.00646 s)
+Step4 (n=10): final covers size = 0  (time 0.00557892 s)
+No final cover found in intersection.
+Times summary: step1=84.9366 s, step2a=0.0561624 s, step2b=333.634 s, step3(intersection)=6.00646 s, step4=0.00557892 s
+Execution end: 2026-09-09T20:57:29+01:00
+Status: OK
+Runtime_seconds: 425.062
+=== RUN END: prime=233 | runtime=425.062s ===
+
+=== RUN START: 2026-09-09T20:57:29+01:00 | prime=239 | K=9 ===
+Compiling (PRIME=239 K=9) ...
+=== EXECUTING: binary for PRIME=239 ===
+Execution start: 2026-09-09T20:57:31+01:00
+Parameters: p=239, k=9 (k+1 = 10)
+Step1 (n=1): S size = 714  (time 66.2164 s)
+Step2a (n=2,m=2): T size = 238  (time 0.0129314 s)
+Step2b (n=5,m=5): U size = 476  (time 65.9615 s)
+Step3 (optimized intersection) size = 476  (time 7.0312 s)
+Step4 (n=10): final covers size = 0  (time 0.00609983 s)
+No final cover found in intersection.
+Times summary: step1=66.2164 s, step2a=0.0129314 s, step2b=65.9615 s, step3(intersection)=7.0312 s, step4=0.00609983 s
+Execution end: 2026-09-09T20:59:51+01:00
+Status: OK
+Runtime_seconds: 139.579
+=== RUN END: prime=239 | runtime=139.579s ===
+
+=== RUN START: 2026-09-09T20:59:51+01:00 | prime=241 | K=9 ===
+Compiling (PRIME=241 K=9) ...
+=== EXECUTING: binary for PRIME=241 ===
+Execution start: 2026-09-09T20:59:52+01:00
+Parameters: p=241, k=9 (k+1 = 10)
+Step1 (n=1): S size = 3720  (time 120.54 s)
+Step2a (n=2,m=2): T size = 240  (time 0.0549986 s)
+Step2b (n=5,m=5): U size = 480  (time 270.364 s)
+Step3 (optimized intersection) size = 480  (time 5.81401 s)
+Step4 (n=10): final covers size = 0  (time 0.00587392 s)
+No final cover found in intersection.
+Times summary: step1=120.54 s, step2a=0.0549986 s, step2b=270.364 s, step3(intersection)=5.81401 s, step4=0.00587392 s
+Execution end: 2026-09-09T21:06:30+01:00
+Status: OK
+Runtime_seconds: 397.221
+=== RUN END: prime=241 | runtime=397.221s ===
+
+=== RUN START: 2026-09-09T21:06:30+01:00 | prime=251 | K=9 ===
+Compiling (PRIME=251 K=9) ...
+=== EXECUTING: binary for PRIME=251 ===
+Execution start: 2026-09-09T21:06:31+01:00
+Parameters: p=251, k=9 (k+1 = 10)
+Step1 (n=1): S size = 1625  (time 149.799 s)
+Step2a (n=2,m=2): T size = 250  (time 0.0285863 s)
+Step2b (n=5,m=5): U size = 500  (time 144.638 s)
+Step3 (optimized intersection) size = 500  (time 8.28665 s)
+Step4 (n=10): final covers size = 0  (time 0.00990313 s)
+No final cover found in intersection.
+Times summary: step1=149.799 s, step2a=0.0285863 s, step2b=144.638 s, step3(intersection)=8.28665 s, step4=0.00990313 s
+Execution end: 2026-09-09T21:11:34+01:00
+Status: OK
+Runtime_seconds: 303.338
+=== RUN END: prime=251 | runtime=303.338s ===
+
+=== RUN START: 2026-09-09T21:11:34+01:00 | prime=257 | K=9 ===
+Compiling (PRIME=257 K=9) ...
+=== EXECUTING: binary for PRIME=257 ===
+Execution start: 2026-09-09T21:11:36+01:00
+Parameters: p=257, k=9 (k+1 = 10)
+Step1 (n=1): S size = 384  (time 114.279 s)
+Step2a (n=2,m=2): T size = 128  (time 0.00780267 s)
+Step2b (n=5,m=5): U size = 512  (time 27.3913 s)
+Step3 (optimized intersection) size = 512  (time 7.44521 s)
+Step4 (n=10): final covers size = 0  (time 0.00701467 s)
+No final cover found in intersection.
+Times summary: step1=114.279 s, step2a=0.00780267 s, step2b=27.3913 s, step3(intersection)=7.44521 s, step4=0.00701467 s
+Execution end: 2026-09-09T21:14:06+01:00
+Status: OK
+Runtime_seconds: 150.021
+=== RUN END: prime=257 | runtime=150.021s ===
+
+=== RUN START: 2026-09-09T21:14:06+01:00 | prime=263 | K=9 ===
+Compiling (PRIME=263 K=9) ...
+=== EXECUTING: binary for PRIME=263 ===
+Execution start: 2026-09-09T21:14:08+01:00
+Parameters: p=263, k=9 (k+1 = 10)
+Step1 (n=1): S size = 917  (time 194.886 s)
+Step2a (n=2,m=2): T size = 262  (time 0.0229935 s)
+Step2b (n=5,m=5): U size = 524  (time 85.4279 s)
+Step3 (optimized intersection) size = 524  (time 8.117 s)
+Step4 (n=10): final covers size = 0  (time 0.00694375 s)
+No final cover found in intersection.
+Times summary: step1=194.886 s, step2a=0.0229935 s, step2b=85.4279 s, step3(intersection)=8.117 s, step4=0.00694375 s
+Execution end: 2026-09-09T21:18:57+01:00
+Status: OK
+Runtime_seconds: 288.967
+=== RUN END: prime=263 | runtime=288.967s ===
+
+=== RUN START: 2026-09-09T21:18:57+01:00 | prime=269 | K=9 ===
+Compiling (PRIME=269 K=9) ...
+=== EXECUTING: binary for PRIME=269 ===
+Execution start: 2026-09-09T21:18:58+01:00
+Parameters: p=269, k=9 (k+1 = 10)
+Step1 (n=1): S size = 134  (time 146.952 s)
+Step2a (n=2,m=2): T size = 134  (time 0.00665292 s)
+Step2b (n=5,m=5): U size = 536  (time 8.27902 s)
+Step3 (optimized intersection) size = 536  (time 8.58747 s)
+Step4 (n=10): final covers size = 0  (time 0.00728733 s)
+No final cover found in intersection.
+Times summary: step1=146.952 s, step2a=0.00665292 s, step2b=8.27902 s, step3(intersection)=8.58747 s, step4=0.00728733 s
+Execution end: 2026-09-09T21:21:42+01:00
+Status: OK
+Runtime_seconds: 164.229
+=== RUN END: prime=269 | runtime=164.229s ===
+
+=== RUN START: 2026-09-09T21:21:42+01:00 | prime=271 | K=9 ===
+Compiling (PRIME=271 K=9) ...
+=== EXECUTING: binary for PRIME=271 ===
+Execution start: 2026-09-09T21:21:44+01:00
+Parameters: p=271, k=9 (k+1 = 10)
+Step1 (n=1): S size = 2160  (time 257.974 s)
+Step2a (n=2,m=2): T size = 135  (time 0.0338107 s)
+Step2b (n=5,m=5): U size = 540  (time 200.294 s)
+Step3 (optimized intersection) size = 540  (time 8.02644 s)
+Step4 (n=10): final covers size = 0  (time 0.00862521 s)
+No final cover found in intersection.
+Times summary: step1=257.974 s, step2a=0.0338107 s, step2b=200.294 s, step3(intersection)=8.02644 s, step4=0.00862521 s
+Execution end: 2026-09-09T21:29:31+01:00
+Status: OK
+Runtime_seconds: 466.796
+=== RUN END: prime=271 | runtime=466.796s ===
+
+=== RUN START: 2026-09-09T21:29:31+01:00 | prime=277 | K=9 ===
+Compiling (PRIME=277 K=9) ...
+=== EXECUTING: binary for PRIME=277 ===
+Execution start: 2026-09-09T21:29:32+01:00
+Parameters: p=277, k=9 (k+1 = 10)
+Step1 (n=1): S size = 276  (time 196.437 s)
+Step2a (n=2,m=2): T size = 138  (time 0.00700587 s)
+Step2b (n=5,m=5): U size = 552  (time 26.1744 s)
+Step3 (optimized intersection) size = 552  (time 7.33838 s)
+Step4 (n=10): final covers size = 0  (time 0.00756258 s)
+No final cover found in intersection.
+Times summary: step1=196.437 s, step2a=0.00700587 s, step2b=26.1744 s, step3(intersection)=7.33838 s, step4=0.00756258 s
+Execution end: 2026-09-09T21:33:23+01:00
+Status: OK
+Runtime_seconds: 230.422
+=== RUN END: prime=277 | runtime=230.422s ===
+
+=== RUN START: 2026-09-09T21:33:23+01:00 | prime=281 | K=9 ===
+Compiling (PRIME=281 K=9) ...
+=== EXECUTING: binary for PRIME=281 ===
+Execution start: 2026-09-09T21:33:25+01:00
+Parameters: p=281, k=9 (k+1 = 10)
+Step1 (n=1): S size = 840  (time 313.898 s)
+Step2a (n=2,m=2): T size = 140  (time 0.0189327 s)
+Step2b (n=5,m=5): U size = 560  (time 82.1532 s)
+Step3 (optimized intersection) size = 560  (time 8.43145 s)
+Step4 (n=10): final covers size = 0  (time 0.00827558 s)
+No final cover found in intersection.
+Times summary: step1=313.898 s, step2a=0.0189327 s, step2b=82.1532 s, step3(intersection)=8.43145 s, step4=0.00827558 s
+Execution end: 2026-09-09T21:40:10+01:00
+Status: OK
+Runtime_seconds: 404.881
+=== RUN END: prime=281 | runtime=404.881s ===
+
+=== RUN START: 2026-09-09T21:40:10+01:00 | prime=283 | K=9 ===
+Compiling (PRIME=283 K=9) ...
+=== EXECUTING: binary for PRIME=283 ===
+Execution start: 2026-09-09T21:40:11+01:00
+Parameters: p=283, k=9 (k+1 = 10)
+Step1 (n=1): S size = 987  (time 289.323 s)
+Step2a (n=2,m=2): T size = 282  (time 0.0187165 s)
+Step2b (n=5,m=5): U size = 564  (time 87.1746 s)
+Step3 (optimized intersection) size = 564  (time 7.27587 s)
+Step4 (n=10): final covers size = 0  (time 0.00820546 s)
+No final cover found in intersection.
+Times summary: step1=289.323 s, step2a=0.0187165 s, step2b=87.1746 s, step3(intersection)=7.27587 s, step4=0.00820546 s
+Execution end: 2026-09-09T21:46:36+01:00
+Status: OK
+Runtime_seconds: 384.292
+=== RUN END: prime=283 | runtime=384.292s ===
+
+=== RUN START: 2026-09-09T21:46:36+01:00 | prime=293 | K=9 ===
+Compiling (PRIME=293 K=9) ...
+=== EXECUTING: binary for PRIME=293 ===
+Execution start: 2026-09-09T21:46:38+01:00
+Parameters: p=293, k=9 (k+1 = 10)
+Step1 (n=1): S size = 730  (time 362.959 s)
+Step2a (n=2,m=2): T size = 146  (time 0.0141725 s)
+Step2b (n=5,m=5): U size = 584  (time 63.9436 s)
+Step3 (optimized intersection) size = 584  (time 8.62355 s)
+Step4 (n=10): final covers size = 0  (time 0.008806 s)
+No final cover found in intersection.
+Times summary: step1=362.959 s, step2a=0.0141725 s, step2b=63.9436 s, step3(intersection)=8.62355 s, step4=0.008806 s
+Execution end: 2026-09-09T21:53:54+01:00
+Status: OK
+Runtime_seconds: 435.915
+=== RUN END: prime=293 | runtime=435.915s ===
+
+=== RUN START: 2026-09-09T21:53:54+01:00 | prime=307 | K=9 ===
+Compiling (PRIME=307 K=9) ...
+=== EXECUTING: binary for PRIME=307 ===
+Execution start: 2026-09-09T21:53:55+01:00
+Parameters: p=307, k=9 (k+1 = 10)
+Step1 (n=1): S size = 1224  (time 365.201 s)
+Step2a (n=2,m=2): T size = 306  (time 0.0252175 s)
+Step2b (n=5,m=5): U size = 612  (time 116.526 s)
+Step3 (optimized intersection) size = 612  (time 9.88054 s)
+Step4 (n=10): final covers size = 0  (time 0.00945 s)
+No final cover found in intersection.
+Times summary: step1=365.201 s, step2a=0.0252175 s, step2b=116.526 s, step3(intersection)=9.88054 s, step4=0.00945 s
+Execution end: 2026-09-09T22:02:08+01:00
+Status: OK
+Runtime_seconds: 492.100
+=== RUN END: prime=307 | runtime=492.100s ===
+
+=== RUN START: 2026-09-09T22:02:08+01:00 | prime=311 | K=9 ===
+Compiling (PRIME=311 K=9) ...
+=== EXECUTING: binary for PRIME=311 ===
+Execution start: 2026-09-09T22:02:09+01:00
+Parameters: p=311, k=9 (k+1 = 10)
+Step1 (n=1): S size = 620  (time 557.16 s)
+Step2a (n=2,m=2): T size = 155  (time 0.0134905 s)
+Step2b (n=5,m=5): U size = 620  (time 52.9166 s)
+Step3 (optimized intersection) size = 620  (time 8.33714 s)
+Step4 (n=10): final covers size = 0  (time 0.00989229 s)
+No final cover found in intersection.
+Times summary: step1=557.16 s, step2a=0.0134905 s, step2b=52.9166 s, step3(intersection)=8.33714 s, step4=0.00989229 s
+Execution end: 2026-09-09T22:12:28+01:00
+Status: OK
+Runtime_seconds: 618.877
+=== RUN END: prime=311 | runtime=618.877s ===
+
+=== RUN START: 2026-09-09T22:12:28+01:00 | prime=313 | K=9 ===
+Compiling (PRIME=313 K=9) ...
+=== EXECUTING: binary for PRIME=313 ===
+Execution start: 2026-09-09T22:12:30+01:00
+Parameters: p=313, k=9 (k+1 = 10)
+Step1 (n=1): S size = 468  (time 517.702 s)
+Step2a (n=2,m=2): T size = 312  (time 0.0115408 s)
+Step2b (n=5,m=5): U size = 624  (time 34.587 s)
+Step3 (optimized intersection) size = 624  (time 8.14545 s)
+Step4 (n=10): final covers size = 0  (time 0.0102145 s)
+No final cover found in intersection.
+Times summary: step1=517.702 s, step2a=0.0115408 s, step2b=34.587 s, step3(intersection)=8.14545 s, step4=0.0102145 s
+Execution end: 2026-09-09T22:21:50+01:00
+Status: OK
+Runtime_seconds: 560.839
+=== RUN END: prime=313 | runtime=560.839s ===
+
+=== RUN START: 2026-09-09T22:21:50+01:00 | prime=317 | K=9 ===
+Compiling (PRIME=317 K=9) ...
+=== EXECUTING: binary for PRIME=317 ===
+Execution start: 2026-09-09T22:21:52+01:00
+Parameters: p=317, k=9 (k+1 = 10)
+Step1 (n=1): S size = 316  (time 406.502 s)
+Step2a (n=2,m=2): T size = 158  (time 0.00753604 s)
+Step2b (n=5,m=5): U size = 632  (time 28.6954 s)
+Step3 (optimized intersection) size = 632  (time 10.086 s)
+Step4 (n=10): final covers size = 0  (time 0.0103109 s)
+No final cover found in intersection.
+Times summary: step1=406.502 s, step2a=0.00753604 s, step2b=28.6954 s, step3(intersection)=10.086 s, step4=0.0103109 s
+Execution end: 2026-09-09T22:29:18+01:00
+Status: OK
+Runtime_seconds: 445.745
+=== RUN END: prime=317 | runtime=445.745s ===
+
+=== RUN START: 2026-09-09T22:29:18+01:00 | prime=331 | K=9 ===
+Compiling (PRIME=331 K=9) ...
+=== EXECUTING: binary for PRIME=331 ===
+Execution start: 2026-09-09T22:29:20+01:00
+Parameters: p=331, k=9 (k+1 = 10)
+Step1 (n=1): S size = 1485  (time 842.276 s)
+Step2a (n=2,m=2): T size = 330  (time 0.0291556 s)
+Step2b (n=5,m=5): U size = 660  (time 124.133 s)
+Step3 (optimized intersection) size = 660  (time 9.12229 s)
+Step4 (n=10): final covers size = 0  (time 0.0118082 s)
+No final cover found in intersection.
+Times summary: step1=842.276 s, step2a=0.0291556 s, step2b=124.133 s, step3(intersection)=9.12229 s, step4=0.0118082 s
+Execution end: 2026-09-09T22:45:36+01:00
+Status: OK
+Runtime_seconds: 976.044
+=== RUN END: prime=331 | runtime=976.044s ===
+
+=== RUN START: 2026-09-09T22:45:36+01:00 | prime=337 | K=9 ===
+Compiling (PRIME=337 K=9) ...
+=== EXECUTING: binary for PRIME=337 ===
+Execution start: 2026-09-09T22:45:38+01:00
+Parameters: p=337, k=9 (k+1 = 10)
+Step1 (n=1): S size = 336  (time 600.296 s)
+Step2a (n=2,m=2): T size = 168  (time 0.00891475 s)
+Step2b (n=5,m=5): U size = 672  (time 30.401 s)
+Step3 (optimized intersection) size = 672  (time 10.2854 s)
+Step4 (n=10): final covers size = 0  (time 0.0112443 s)
+No final cover found in intersection.
+Times summary: step1=600.296 s, step2a=0.00891475 s, step2b=30.401 s, step3(intersection)=10.2854 s, step4=0.0112443 s
+Execution end: 2026-09-09T22:56:19+01:00
+Status: OK
+Runtime_seconds: 641.394
+=== RUN END: prime=337 | runtime=641.394s ===
+
+=== RUN START: 2026-09-09T22:56:19+01:00 | prime=347 | K=9 ===
+Compiling (PRIME=347 K=9) ...
+=== EXECUTING: binary for PRIME=347 ===
+Execution start: 2026-09-09T22:56:21+01:00
+Parameters: p=347, k=9 (k+1 = 10)
+Step1 (n=1): S size = 346  (time 719.183 s)
+Step2a (n=2,m=2): T size = 173  (time 0.0102534 s)
+Step2b (n=5,m=5): U size = 692  (time 29.118 s)
+Step3 (optimized intersection) size = 692  (time 11.0494 s)
+Step4 (n=10): final covers size = 0  (time 0.0120221 s)
+No final cover found in intersection.
+Times summary: step1=719.183 s, step2a=0.0102534 s, step2b=29.118 s, step3(intersection)=11.0494 s, step4=0.0120221 s
+Execution end: 2026-09-09T23:09:00+01:00
+Status: OK
+Runtime_seconds: 759.732
+=== RUN END: prime=347 | runtime=759.732s ===
+
+=== RUN START: 2026-09-09T23:09:00+01:00 | prime=349 | K=9 ===
+Compiling (PRIME=349 K=9) ...
+=== EXECUTING: binary for PRIME=349 ===
+Execution start: 2026-09-09T23:09:02+01:00
+Parameters: p=349, k=9 (k+1 = 10)
+Step1 (n=1): S size = 522  (time 665.788 s)
+Step2a (n=2,m=2): T size = 174  (time 0.0104638 s)
+Step2b (n=5,m=5): U size = 696  (time 40.3117 s)
+Step3 (optimized intersection) size = 696  (time 9.24865 s)
+Step4 (n=10): final covers size = 0  (time 0.0124782 s)
+No final cover found in intersection.
+Times summary: step1=665.788 s, step2a=0.0104638 s, step2b=40.3117 s, step3(intersection)=9.24865 s, step4=0.0124782 s
+Execution end: 2026-09-09T23:20:58+01:00
+Status: OK
+Runtime_seconds: 715.710
+=== RUN END: prime=349 | runtime=715.710s ===
+
+=== RUN START: 2026-09-09T23:20:58+01:00 | prime=353 | K=9 ===
+Compiling (PRIME=353 K=9) ...
+=== EXECUTING: binary for PRIME=353 ===
+Execution start: 2026-09-09T23:20:59+01:00
+Parameters: p=353, k=9 (k+1 = 10)
+Step1 (n=1): S size = 352  (time 935.557 s)
+Step2a (n=2,m=2): T size = 176  (time 0.0119195 s)
+Step2b (n=5,m=5): U size = 704  (time 29.949 s)
+Step3 (optimized intersection) size = 704  (time 10.061 s)
+Step4 (n=10): final covers size = 0  (time 0.0129044 s)
+No final cover found in intersection.
+Times summary: step1=935.557 s, step2a=0.0119195 s, step2b=29.949 s, step3(intersection)=10.061 s, step4=0.0129044 s
+Execution end: 2026-09-09T23:37:15+01:00
+Status: OK
+Runtime_seconds: 976.131
+=== RUN END: prime=353 | runtime=976.131s ===
+
+=== RUN START: 2026-09-09T23:37:15+01:00 | prime=359 | K=9 ===
+Compiling (PRIME=359 K=9) ...
+=== EXECUTING: binary for PRIME=359 ===
+Execution start: 2026-09-09T23:37:17+01:00
+Parameters: p=359, k=9 (k+1 = 10)
+Step1 (n=1): S size = 358  (time 680.087 s)
+Step2a (n=2,m=2): T size = 179  (time 0.00976096 s)
+Step2b (n=5,m=5): U size = 716  (time 29.585 s)
+Step3 (optimized intersection) size = 716  (time 9.69741 s)
+Step4 (n=10): final covers size = 0  (time 0.01274 s)
+No final cover found in intersection.
+Times summary: step1=680.087 s, step2a=0.00976096 s, step2b=29.585 s, step3(intersection)=9.69741 s, step4=0.01274 s
+Execution end: 2026-09-09T23:49:17+01:00
+Status: OK
+Runtime_seconds: 719.889
+=== RUN END: prime=359 | runtime=719.889s ===
+
+=== RUN START: 2026-09-09T23:49:17+01:00 | prime=367 | K=9 ===
+Compiling (PRIME=367 K=9) ...
+=== EXECUTING: binary for PRIME=367 ===
+Execution start: 2026-09-09T23:49:19+01:00
+Parameters: p=367, k=9 (k+1 = 10)
+Step1 (n=1): S size = 183  (time 903.99 s)
+Step2a (n=2,m=2): T size = 183  (time 0.006123 s)
+Step2b (n=5,m=5): U size = 732  (time 19.0939 s)
+Step3 (optimized intersection) size = 732  (time 14.1255 s)
+Step4 (n=10): final covers size = 0  (time 0.0136474 s)
+No final cover found in intersection.
+Times summary: step1=903.99 s, step2a=0.006123 s, step2b=19.0939 s, step3(intersection)=14.1255 s, step4=0.0136474 s
+Execution end: 2026-09-10T00:04:56+01:00
+Status: OK
+Runtime_seconds: 937.631
+=== RUN END: prime=367 | runtime=937.631s ===
+
+=== RUN START: 2026-09-10T00:04:56+01:00 | prime=373 | K=9 ===
+Compiling (PRIME=373 K=9) ...
+=== EXECUTING: binary for PRIME=373 ===
+Execution start: 2026-09-10T00:04:58+01:00
+Parameters: p=373, k=9 (k+1 = 10)
+Step1 (n=1): S size = 186  (time 1311.95 s)
+Step2a (n=2,m=2): T size = 186  (time 0.00630833 s)
+Step2b (n=5,m=5): U size = 744  (time 14.7905 s)
+Step3 (optimized intersection) size = 744  (time 11.9722 s)
+Step4 (n=10): final covers size = 0  (time 0.0140322 s)
+No final cover found in intersection.
+Times summary: step1=1311.95 s, step2a=0.00630833 s, step2b=14.7905 s, step3(intersection)=11.9722 s, step4=0.0140322 s
+Execution end: 2026-09-10T00:27:17+01:00
+Status: OK
+Runtime_seconds: 1339.240
+=== RUN END: prime=373 | runtime=1339.240s ===
+
+=== RUN START: 2026-09-10T00:27:17+01:00 | prime=379 | K=9 ===
+Compiling (PRIME=379 K=9) ...
+=== EXECUTING: binary for PRIME=379 ===
+Execution start: 2026-09-10T00:27:19+01:00
+Parameters: p=379, k=9 (k+1 = 10)
+Step1 (n=1): S size = 378  (time 911.86 s)
+Step2a (n=2,m=2): T size = 189  (time 0.0100022 s)
+Step2b (n=5,m=5): U size = 756  (time 27.8986 s)
+Step3 (optimized intersection) size = 756  (time 9.87476 s)
+Step4 (n=10): final covers size = 0  (time 0.0143352 s)
+No final cover found in intersection.
+Times summary: step1=911.86 s, step2a=0.0100022 s, step2b=27.8986 s, step3(intersection)=9.87476 s, step4=0.0143352 s
+Execution end: 2026-09-10T00:43:09+01:00
+Status: OK
+Runtime_seconds: 950.130
+=== RUN END: prime=379 | runtime=950.130s ===
+
+=== RUN START: 2026-09-10T00:43:09+01:00 | prime=383 | K=9 ===
+Compiling (PRIME=383 K=9) ...
+=== EXECUTING: binary for PRIME=383 ===
+Execution start: 2026-09-10T00:43:10+01:00
+Parameters: p=383, k=9 (k+1 = 10)
+Step1 (n=1): S size = 764  (time 1501.11 s)
+Step2a (n=2,m=2): T size = 191  (time 0.0232003 s)
+Step2b (n=5,m=5): U size = 764  (time 67.4739 s)
+Step3 (optimized intersection) size = 764  (time 9.59848 s)
+Step4 (n=10): final covers size = 0  (time 0.0149727 s)
+No final cover found in intersection.
+Times summary: step1=1501.11 s, step2a=0.0232003 s, step2b=67.4739 s, step3(intersection)=9.59848 s, step4=0.0149727 s
+Execution end: 2026-09-10T01:09:30+01:00
+Status: OK
+Runtime_seconds: 1579.124
+=== RUN END: prime=383 | runtime=1579.124s ===
+
+=== RUN START: 2026-09-10T01:09:30+01:00 | prime=389 | K=9 ===
+Compiling (PRIME=389 K=9) ...
+=== EXECUTING: binary for PRIME=389 ===
+Execution start: 2026-09-10T01:09:31+01:00
+Parameters: p=389, k=9 (k+1 = 10)
+Step1 (n=1): S size = 582  (time 1073.71 s)
+Step2a (n=2,m=2): T size = 194  (time 0.0163743 s)
+Step2b (n=5,m=5): U size = 776  (time 44.2347 s)
+Step3 (optimized intersection) size = 776  (time 14.598 s)
+Step4 (n=10): final covers size = 0  (time 0.0153452 s)
+No final cover found in intersection.
+Times summary: step1=1073.71 s, step2a=0.0163743 s, step2b=44.2347 s, step3(intersection)=14.598 s, step4=0.0153452 s
+Execution end: 2026-09-10T01:28:24+01:00
+Status: OK
+Runtime_seconds: 1132.943
+=== RUN END: prime=389 | runtime=1132.943s ===
+
+=== RUN START: 2026-09-10T01:28:24+01:00 | prime=397 | K=9 ===
+Compiling (PRIME=397 K=9) ...
+=== EXECUTING: binary for PRIME=397 ===
+Execution start: 2026-09-10T01:28:26+01:00
+Parameters: p=397, k=9 (k+1 = 10)
+Step1 (n=1): S size = 396  (time 1413.53 s)
+Step2a (n=2,m=2): T size = 198  (time 0.019372 s)
+Step2b (n=5,m=5): U size = 792  (time 39.6465 s)
+Step3 (optimized intersection) size = 792  (time 9.80219 s)
+Step4 (n=10): final covers size = 0  (time 0.015898 s)
+No final cover found in intersection.
+Times summary: step1=1413.53 s, step2a=0.019372 s, step2b=39.6465 s, step3(intersection)=9.80219 s, step4=0.015898 s
+Execution end: 2026-09-10T01:52:50+01:00
+Status: OK
+Runtime_seconds: 1463.479
+=== RUN END: prime=397 | runtime=1463.479s ===
+
+=== RUN START: 2026-09-10T01:52:50+01:00 | prime=401 | K=9 ===
+Compiling (PRIME=401 K=9) ...
+=== EXECUTING: binary for PRIME=401 ===
+Execution start: 2026-09-10T01:52:52+01:00
+Parameters: p=401, k=9 (k+1 = 10)
+Step1 (n=1): S size = 400  (time 2217.63 s)
+Step2a (n=2,m=2): T size = 200  (time 0.0100637 s)
+Step2b (n=5,m=5): U size = 800  (time 35.2986 s)
+Step3 (optimized intersection) size = 800  (time 12.5686 s)
+Step4 (n=10): final covers size = 0  (time 0.0163789 s)
+No final cover found in intersection.
+Times summary: step1=2217.63 s, step2a=0.0100637 s, step2b=35.2986 s, step3(intersection)=12.5686 s, step4=0.0163789 s
+Execution end: 2026-09-10T02:30:38+01:00
+Status: OK
+Runtime_seconds: 2266.029
+=== RUN END: prime=401 | runtime=2266.029s ===
+
+
