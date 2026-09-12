@@ -1,6 +1,6 @@
 # Nine and Ten Lonely Runners Code
 
-This repository accompanies the article "[Nine and Ten Lonely Runners](https://arxiv.org/abs/2511.22427)" by Tanupat (Paul) Trakulthongchai. Our code is developed based on the [code](https://gite.lirmm.fr/mrosenfeld/the-lonely-runner-conjecture) provided by Matthieu Rosenfeld.
+This repository accompanies the article "[Nine and Ten Lonely Runners](https://arxiv.org/abs/2511.22427)" (*Electron. J. Comb.* **26**, P2:46). Our code is developed based on the [code](https://gite.lirmm.fr/mrosenfeld/the-lonely-runner-conjecture) provided by Matthieu Rosenfeld. Thanks to Jaan Allikvere for pointing out a bug in an earlier version of ``lrc_for_ten_runners.cpp``.
 
 ## Files
 ``lrc_for_nine_runners.cpp`` is the main code that checks whether $I(k,k+1,p)$ is empty for $k=8$.
@@ -9,7 +9,7 @@ This repository accompanies the article "[Nine and Ten Lonely Runners](https://a
 
 ``results_nine.txt`` is the receipt of our own run that allows us to conclude in Section 5 of the paper that $I(k,k+1,p)$ is empty for all $p\in S_k$ for $k=8$. 
 
-The same applies for 10 runners, if we replace ``nine`` with ``ten`` in the file names (and $k=8$ with $k=9$).
+The same applies for 10 runners, if we replace ``nine`` with ``ten`` in the file names (and $k=8$ with $k=9$). We also include the ``direct`` version of 10 runners verification, which is recommended if you want to run this at home. It contains one *less* idea than the version in the paper (to only lift with $\ell=1$ to $\ell=2$ to $\ell=10$ and not $\ell=5$), runs faster, and provably gives the same results.
 
 
 ## Verifying our results
@@ -20,7 +20,13 @@ chmod +x meta_lrc_nine.sh
 ./meta_lrc_nine.sh lrc_for_nine_runners.cpp 8 47 53 59 61 67 71 73 79 83 89 97 101 103 107 109 113 127 131 137 139 149 151 157 163 167 173 179 181 191 193 197 199 211 223 227 229 233 239 241 results_nine.txt
 ```
 
-For 10 runners, run:
+For 10 runners (``direct`` version, recommended), run:
+```bash
+chmod +x meta_lrc_ten_direct.sh
+./meta_lrc_ten_direct.sh lrc_for_ten_runners_direct.cpp 9 137 139 149 151 157 163 167 173 179 181 191 193 197 199 211 223 227 229 233 239 241 251 257 263 269 271 277 281 283 293 307 311 313 317 331 337 347 349 353 359 367 373 379 383 389 397 401 results_ten.txt
+```
+
+For 10 runners (original version), run:
 ```bash
 chmod +x meta_lrc_ten.sh
 ./meta_lrc_ten.sh lrc_for_ten_runners.cpp 9 137 139 149 151 157 163 167 173 179 181 191 193 197 199 211 223 227 229 233 239 241 251 257 263 269 271 277 281 283 293 307 311 313 317 331 337 347 349 353 359 367 373 379 383 389 397 401 results_ten.txt
