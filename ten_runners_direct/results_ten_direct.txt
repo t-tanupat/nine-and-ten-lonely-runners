@@ -1,0 +1,705 @@
+=== RUN START: 2026-09-12T12:09:28+0100 | prime=137 | K=9 ===
+Compiling (PRIME=137 K=9) ...
+=== EXECUTING: binary for PRIME=137 ===
+Execution start: 2026-09-12T12:09:31+0100
+Parameters: p=137, k=9 (k+1 = 10)
+Step1 (n=1): S size = 62560  (time 2.81813 s)
+Step2 (n=2,m=2): T size = 340  (time 1.05861 s)
+Step3 (n=10,m=5): final covers size = 0  (time 30.3145 s)
+No final cover found at level 10.
+Times summary: step1=2.81813 s, step2=1.05861 s, step3=30.3145 s
+Execution end: 2026-09-12T12:10:05+0100
+Status: OK
+Runtime_seconds: 34
+=== RUN END: prime=137 | runtime=34s ===
+
+=== RUN START: 2026-09-12T12:10:05+0100 | prime=139 | K=9 ===
+Compiling (PRIME=139 K=9) ...
+=== EXECUTING: binary for PRIME=139 ===
+Execution start: 2026-09-12T12:10:06+0100
+Parameters: p=139, k=9 (k+1 = 10)
+Step1 (n=1): S size = 35903  (time 2.45705 s)
+Step2 (n=2,m=2): T size = 207  (time 0.615984 s)
+Step3 (n=10,m=5): final covers size = 0  (time 17.4962 s)
+No final cover found at level 10.
+Times summary: step1=2.45705 s, step2=0.615984 s, step3=17.4962 s
+Execution end: 2026-09-12T12:10:27+0100
+Status: OK
+Runtime_seconds: 21
+=== RUN END: prime=139 | runtime=21s ===
+
+=== RUN START: 2026-09-12T12:10:27+0100 | prime=149 | K=9 ===
+Compiling (PRIME=149 K=9) ...
+=== EXECUTING: binary for PRIME=149 ===
+Execution start: 2026-09-12T12:10:29+0100
+Parameters: p=149, k=9 (k+1 = 10)
+Step1 (n=1): S size = 30562  (time 4.03789 s)
+Step2 (n=2,m=2): T size = 740  (time 0.493252 s)
+Step3 (n=10,m=5): final covers size = 0  (time 64.4234 s)
+No final cover found at level 10.
+Times summary: step1=4.03789 s, step2=0.493252 s, step3=64.4234 s
+Execution end: 2026-09-12T12:11:38+0100
+Status: OK
+Runtime_seconds: 69
+=== RUN END: prime=149 | runtime=69s ===
+
+=== RUN START: 2026-09-12T12:11:38+0100 | prime=151 | K=9 ===
+Compiling (PRIME=151 K=9) ...
+=== EXECUTING: binary for PRIME=151 ===
+Execution start: 2026-09-12T12:11:39+0100
+Parameters: p=151, k=9 (k+1 = 10)
+Step1 (n=1): S size = 277350  (time 9.99218 s)
+Step2 (n=2,m=2): T size = 1575  (time 5.68253 s)
+Step3 (n=10,m=5): final covers size = 0  (time 138.943 s)
+No final cover found at level 10.
+Times summary: step1=9.99218 s, step2=5.68253 s, step3=138.943 s
+Execution end: 2026-09-12T12:14:15+0100
+Status: OK
+Runtime_seconds: 156
+=== RUN END: prime=151 | runtime=156s ===
+
+=== RUN START: 2026-09-12T12:14:15+0100 | prime=157 | K=9 ===
+Compiling (PRIME=157 K=9) ...
+=== EXECUTING: binary for PRIME=157 ===
+Execution start: 2026-09-12T12:14:16+0100
+Parameters: p=157, k=9 (k+1 = 10)
+Step1 (n=1): S size = 36972  (time 6.42258 s)
+Step2 (n=2,m=2): T size = 390  (time 0.754681 s)
+Step3 (n=10,m=5): final covers size = 0  (time 34.2772 s)
+No final cover found at level 10.
+Times summary: step1=6.42258 s, step2=0.754681 s, step3=34.2772 s
+Execution end: 2026-09-12T12:14:58+0100
+Status: OK
+Runtime_seconds: 42
+=== RUN END: prime=157 | runtime=42s ===
+
+=== RUN START: 2026-09-12T12:14:58+0100 | prime=163 | K=9 ===
+Compiling (PRIME=163 K=9) ...
+=== EXECUTING: binary for PRIME=163 ===
+Execution start: 2026-09-12T12:14:59+0100
+Parameters: p=163, k=9 (k+1 = 10)
+Step1 (n=1): S size = 81405  (time 11.0846 s)
+Step2 (n=2,m=2): T size = 486  (time 2.00571 s)
+Step3 (n=10,m=5): final covers size = 0  (time 44.7958 s)
+No final cover found at level 10.
+Times summary: step1=11.0846 s, step2=2.00571 s, step3=44.7958 s
+Execution end: 2026-09-12T12:15:58+0100
+Status: OK
+Runtime_seconds: 59
+=== RUN END: prime=163 | runtime=59s ===
+
+=== RUN START: 2026-09-12T12:15:58+0100 | prime=167 | K=9 ===
+Compiling (PRIME=167 K=9) ...
+=== EXECUTING: binary for PRIME=167 ===
+Execution start: 2026-09-12T12:15:59+0100
+Parameters: p=167, k=9 (k+1 = 10)
+Step1 (n=1): S size = 18260  (time 9.01406 s)
+Step2 (n=2,m=2): T size = 581  (time 0.301189 s)
+Step3 (n=10,m=5): final covers size = 0  (time 44.2509 s)
+No final cover found at level 10.
+Times summary: step1=9.01406 s, step2=0.301189 s, step3=44.2509 s
+Execution end: 2026-09-12T12:16:53+0100
+Status: OK
+Runtime_seconds: 54
+=== RUN END: prime=167 | runtime=54s ===
+
+=== RUN START: 2026-09-12T12:16:53+0100 | prime=173 | K=9 ===
+Compiling (PRIME=173 K=9) ...
+=== EXECUTING: binary for PRIME=173 ===
+Execution start: 2026-09-12T12:16:54+0100
+Parameters: p=173, k=9 (k+1 = 10)
+Step1 (n=1): S size = 41108  (time 14.6436 s)
+Step2 (n=2,m=2): T size = 344  (time 0.79653 s)
+Step3 (n=10,m=5): final covers size = 0  (time 31.174 s)
+No final cover found at level 10.
+Times summary: step1=14.6436 s, step2=0.79653 s, step3=31.174 s
+Execution end: 2026-09-12T12:17:41+0100
+Status: OK
+Runtime_seconds: 47
+=== RUN END: prime=173 | runtime=47s ===
+
+=== RUN START: 2026-09-12T12:17:41+0100 | prime=179 | K=9 ===
+Compiling (PRIME=179 K=9) ...
+=== EXECUTING: binary for PRIME=179 ===
+Execution start: 2026-09-12T12:17:43+0100
+Parameters: p=179, k=9 (k+1 = 10)
+Step1 (n=1): S size = 4539  (time 10.7304 s)
+Step2 (n=2,m=2): T size = 178  (time 0.078073 s)
+Step3 (n=10,m=5): final covers size = 0  (time 17.5606 s)
+No final cover found at level 10.
+Times summary: step1=10.7304 s, step2=0.078073 s, step3=17.5606 s
+Execution end: 2026-09-12T12:18:12+0100
+Status: OK
+Runtime_seconds: 29
+=== RUN END: prime=179 | runtime=29s ===
+
+=== RUN START: 2026-09-12T12:18:12+0100 | prime=181 | K=9 ===
+Compiling (PRIME=181 K=9) ...
+=== EXECUTING: binary for PRIME=181 ===
+Execution start: 2026-09-12T12:18:13+0100
+Parameters: p=181, k=9 (k+1 = 10)
+Step1 (n=1): S size = 45240  (time 22.9503 s)
+Step2 (n=2,m=2): T size = 360  (time 0.766131 s)
+Step3 (n=10,m=5): final covers size = 0  (time 33.7414 s)
+No final cover found at level 10.
+Times summary: step1=22.9503 s, step2=0.766131 s, step3=33.7414 s
+Execution end: 2026-09-12T12:19:11+0100
+Status: OK
+Runtime_seconds: 58
+=== RUN END: prime=181 | runtime=58s ===
+
+=== RUN START: 2026-09-12T12:19:11+0100 | prime=191 | K=9 ===
+Compiling (PRIME=191 K=9) ...
+=== EXECUTING: binary for PRIME=191 ===
+Execution start: 2026-09-12T12:19:12+0100
+Parameters: p=191, k=9 (k+1 = 10)
+Step1 (n=1): S size = 25840  (time 29.1716 s)
+Step2 (n=2,m=2): T size = 570  (time 0.606275 s)
+Step3 (n=10,m=5): final covers size = 0  (time 56.9783 s)
+No final cover found at level 10.
+Times summary: step1=29.1716 s, step2=0.606275 s, step3=56.9783 s
+Execution end: 2026-09-12T12:20:39+0100
+Status: OK
+Runtime_seconds: 87
+=== RUN END: prime=191 | runtime=87s ===
+
+=== RUN START: 2026-09-12T12:20:39+0100 | prime=193 | K=9 ===
+Compiling (PRIME=193 K=9) ...
+=== EXECUTING: binary for PRIME=193 ===
+Execution start: 2026-09-12T12:20:41+0100
+Parameters: p=193, k=9 (k+1 = 10)
+Step1 (n=1): S size = 11808  (time 25.7238 s)
+Step2 (n=2,m=2): T size = 192  (time 0.173891 s)
+Step3 (n=10,m=5): final covers size = 0  (time 14.3225 s)
+No final cover found at level 10.
+Times summary: step1=25.7238 s, step2=0.173891 s, step3=14.3225 s
+Execution end: 2026-09-12T12:21:21+0100
+Status: OK
+Runtime_seconds: 40
+=== RUN END: prime=193 | runtime=40s ===
+
+=== RUN START: 2026-09-12T12:21:21+0100 | prime=197 | K=9 ===
+Compiling (PRIME=197 K=9) ...
+=== EXECUTING: binary for PRIME=197 ===
+Execution start: 2026-09-12T12:21:23+0100
+Parameters: p=197, k=9 (k+1 = 10)
+Step1 (n=1): S size = 2450  (time 22.187 s)
+Step2 (n=2,m=2): T size = 294  (time 0.0487403 s)
+Step3 (n=10,m=5): final covers size = 0  (time 29.6344 s)
+No final cover found at level 10.
+Times summary: step1=22.187 s, step2=0.0487403 s, step3=29.6344 s
+Execution end: 2026-09-12T12:22:15+0100
+Status: OK
+Runtime_seconds: 52
+=== RUN END: prime=197 | runtime=52s ===
+
+=== RUN START: 2026-09-12T12:22:15+0100 | prime=199 | K=9 ===
+Compiling (PRIME=199 K=9) ...
+=== EXECUTING: binary for PRIME=199 ===
+Execution start: 2026-09-12T12:22:16+0100
+Parameters: p=199, k=9 (k+1 = 10)
+Step1 (n=1): S size = 1980  (time 20.8356 s)
+Step2 (n=2,m=2): T size = 99  (time 0.0406013 s)
+Step3 (n=10,m=5): final covers size = 0  (time 8.90171 s)
+No final cover found at level 10.
+Times summary: step1=20.8356 s, step2=0.0406013 s, step3=8.90171 s
+Execution end: 2026-09-12T12:22:46+0100
+Status: OK
+Runtime_seconds: 30
+=== RUN END: prime=199 | runtime=30s ===
+
+=== RUN START: 2026-09-12T12:22:46+0100 | prime=211 | K=9 ===
+Compiling (PRIME=211 K=9) ...
+=== EXECUTING: binary for PRIME=211 ===
+Execution start: 2026-09-12T12:22:48+0100
+Parameters: p=211, k=9 (k+1 = 10)
+Step1 (n=1): S size = 12950  (time 53.3101 s)
+Step2 (n=2,m=2): T size = 210  (time 0.237117 s)
+Step3 (n=10,m=5): final covers size = 0  (time 16.9384 s)
+No final cover found at level 10.
+Times summary: step1=53.3101 s, step2=0.237117 s, step3=16.9384 s
+Execution end: 2026-09-12T12:23:59+0100
+Status: OK
+Runtime_seconds: 71
+=== RUN END: prime=211 | runtime=71s ===
+
+=== RUN START: 2026-09-12T12:23:59+0100 | prime=223 | K=9 ===
+Compiling (PRIME=223 K=9) ...
+=== EXECUTING: binary for PRIME=223 ===
+Execution start: 2026-09-12T12:24:00+0100
+Parameters: p=223, k=9 (k+1 = 10)
+Step1 (n=1): S size = 8769  (time 66.6981 s)
+Step2 (n=2,m=2): T size = 222  (time 0.128894 s)
+Step3 (n=10,m=5): final covers size = 0  (time 18.3679 s)
+No final cover found at level 10.
+Times summary: step1=66.6981 s, step2=0.128894 s, step3=18.3679 s
+Execution end: 2026-09-12T12:25:26+0100
+Status: OK
+Runtime_seconds: 86
+=== RUN END: prime=223 | runtime=86s ===
+
+=== RUN START: 2026-09-12T12:25:26+0100 | prime=227 | K=9 ===
+Compiling (PRIME=227 K=9) ...
+=== EXECUTING: binary for PRIME=227 ===
+Execution start: 2026-09-12T12:25:28+0100
+Parameters: p=227, k=9 (k+1 = 10)
+Step1 (n=1): S size = 2486  (time 55.2787 s)
+Step2 (n=2,m=2): T size = 113  (time 0.0563085 s)
+Step3 (n=10,m=5): final covers size = 0  (time 12.1332 s)
+No final cover found at level 10.
+Times summary: step1=55.2787 s, step2=0.0563085 s, step3=12.1332 s
+Execution end: 2026-09-12T12:26:35+0100
+Status: OK
+Runtime_seconds: 67
+=== RUN END: prime=227 | runtime=67s ===
+
+=== RUN START: 2026-09-12T12:26:35+0100 | prime=229 | K=9 ===
+Compiling (PRIME=229 K=9) ...
+=== EXECUTING: binary for PRIME=229 ===
+Execution start: 2026-09-12T12:26:37+0100
+Parameters: p=229, k=9 (k+1 = 10)
+Step1 (n=1): S size = 798  (time 50.664 s)
+Step2 (n=2,m=2): T size = 114  (time 0.0168675 s)
+Step3 (n=10,m=5): final covers size = 0  (time 10.5374 s)
+No final cover found at level 10.
+Times summary: step1=50.664 s, step2=0.0168675 s, step3=10.5374 s
+Execution end: 2026-09-12T12:27:38+0100
+Status: OK
+Runtime_seconds: 61
+=== RUN END: prime=229 | runtime=61s ===
+
+=== RUN START: 2026-09-12T12:27:38+0100 | prime=233 | K=9 ===
+Compiling (PRIME=233 K=9) ...
+=== EXECUTING: binary for PRIME=233 ===
+Execution start: 2026-09-12T12:27:40+0100
+Parameters: p=233, k=9 (k+1 = 10)
+Step1 (n=1): S size = 3480  (time 84.3266 s)
+Step2 (n=2,m=2): T size = 116  (time 0.0797278 s)
+Step3 (n=10,m=5): final covers size = 0  (time 11.3909 s)
+No final cover found at level 10.
+Times summary: step1=84.3266 s, step2=0.0797278 s, step3=11.3909 s
+Execution end: 2026-09-12T12:29:16+0100
+Status: OK
+Runtime_seconds: 96
+=== RUN END: prime=233 | runtime=96s ===
+
+=== RUN START: 2026-09-12T12:29:16+0100 | prime=239 | K=9 ===
+Compiling (PRIME=239 K=9) ...
+=== EXECUTING: binary for PRIME=239 ===
+Execution start: 2026-09-12T12:29:18+0100
+Parameters: p=239, k=9 (k+1 = 10)
+Step1 (n=1): S size = 714  (time 65.3302 s)
+Step2 (n=2,m=2): T size = 238  (time 0.0188258 s)
+Step3 (n=10,m=5): final covers size = 0  (time 24.9099 s)
+No final cover found at level 10.
+Times summary: step1=65.3302 s, step2=0.0188258 s, step3=24.9099 s
+Execution end: 2026-09-12T12:30:48+0100
+Status: OK
+Runtime_seconds: 90
+=== RUN END: prime=239 | runtime=90s ===
+
+=== RUN START: 2026-09-12T12:30:48+0100 | prime=241 | K=9 ===
+Compiling (PRIME=241 K=9) ...
+=== EXECUTING: binary for PRIME=241 ===
+Execution start: 2026-09-12T12:30:50+0100
+Parameters: p=241, k=9 (k+1 = 10)
+Step1 (n=1): S size = 3720  (time 119.55 s)
+Step2 (n=2,m=2): T size = 240  (time 0.0763802 s)
+Step3 (n=10,m=5): final covers size = 0  (time 15.3876 s)
+No final cover found at level 10.
+Times summary: step1=119.55 s, step2=0.0763802 s, step3=15.3876 s
+Execution end: 2026-09-12T12:33:05+0100
+Status: OK
+Runtime_seconds: 135
+=== RUN END: prime=241 | runtime=135s ===
+
+=== RUN START: 2026-09-12T12:33:05+0100 | prime=251 | K=9 ===
+Compiling (PRIME=251 K=9) ...
+=== EXECUTING: binary for PRIME=251 ===
+Execution start: 2026-09-12T12:33:06+0100
+Parameters: p=251, k=9 (k+1 = 10)
+Step1 (n=1): S size = 1625  (time 149.712 s)
+Step2 (n=2,m=2): T size = 250  (time 0.0331791 s)
+Step3 (n=10,m=5): final covers size = 0  (time 22.8597 s)
+No final cover found at level 10.
+Times summary: step1=149.712 s, step2=0.0331791 s, step3=22.8597 s
+Execution end: 2026-09-12T12:35:59+0100
+Status: OK
+Runtime_seconds: 173
+=== RUN END: prime=251 | runtime=173s ===
+
+=== RUN START: 2026-09-12T12:35:59+0100 | prime=257 | K=9 ===
+Compiling (PRIME=257 K=9) ...
+=== EXECUTING: binary for PRIME=257 ===
+Execution start: 2026-09-12T12:36:01+0100
+Parameters: p=257, k=9 (k+1 = 10)
+Step1 (n=1): S size = 384  (time 114.203 s)
+Step2 (n=2,m=2): T size = 128  (time 0.0108097 s)
+Step3 (n=10,m=5): final covers size = 0  (time 13.2003 s)
+No final cover found at level 10.
+Times summary: step1=114.203 s, step2=0.0108097 s, step3=13.2003 s
+Execution end: 2026-09-12T12:38:08+0100
+Status: OK
+Runtime_seconds: 127
+=== RUN END: prime=257 | runtime=127s ===
+
+=== RUN START: 2026-09-12T12:38:08+0100 | prime=263 | K=9 ===
+Compiling (PRIME=263 K=9) ...
+=== EXECUTING: binary for PRIME=263 ===
+Execution start: 2026-09-12T12:38:10+0100
+Parameters: p=263, k=9 (k+1 = 10)
+Step1 (n=1): S size = 917  (time 197.208 s)
+Step2 (n=2,m=2): T size = 262  (time 0.0246592 s)
+Step3 (n=10,m=5): final covers size = 0  (time 24.6858 s)
+No final cover found at level 10.
+Times summary: step1=197.208 s, step2=0.0246592 s, step3=24.6858 s
+Execution end: 2026-09-12T12:41:52+0100
+Status: OK
+Runtime_seconds: 222
+=== RUN END: prime=263 | runtime=222s ===
+
+=== RUN START: 2026-09-12T12:41:52+0100 | prime=269 | K=9 ===
+Compiling (PRIME=269 K=9) ...
+=== EXECUTING: binary for PRIME=269 ===
+Execution start: 2026-09-12T12:41:54+0100
+Parameters: p=269, k=9 (k+1 = 10)
+Step1 (n=1): S size = 134  (time 147.114 s)
+Step2 (n=2,m=2): T size = 134  (time 0.00565783 s)
+Step3 (n=10,m=5): final covers size = 0  (time 12.9524 s)
+No final cover found at level 10.
+Times summary: step1=147.114 s, step2=0.00565783 s, step3=12.9524 s
+Execution end: 2026-09-12T12:44:34+0100
+Status: OK
+Runtime_seconds: 160
+=== RUN END: prime=269 | runtime=160s ===
+
+=== RUN START: 2026-09-12T12:44:34+0100 | prime=271 | K=9 ===
+Compiling (PRIME=271 K=9) ...
+=== EXECUTING: binary for PRIME=271 ===
+Execution start: 2026-09-12T12:44:36+0100
+Parameters: p=271, k=9 (k+1 = 10)
+Step1 (n=1): S size = 2160  (time 255.197 s)
+Step2 (n=2,m=2): T size = 135  (time 0.0515065 s)
+Step3 (n=10,m=5): final covers size = 0  (time 12.9593 s)
+No final cover found at level 10.
+Times summary: step1=255.197 s, step2=0.0515065 s, step3=12.9593 s
+Execution end: 2026-09-12T12:49:04+0100
+Status: OK
+Runtime_seconds: 268
+=== RUN END: prime=271 | runtime=268s ===
+
+=== RUN START: 2026-09-12T12:49:04+0100 | prime=277 | K=9 ===
+Compiling (PRIME=277 K=9) ...
+=== EXECUTING: binary for PRIME=277 ===
+Execution start: 2026-09-12T12:49:06+0100
+Parameters: p=277, k=9 (k+1 = 10)
+Step1 (n=1): S size = 276  (time 195.063 s)
+Step2 (n=2,m=2): T size = 138  (time 0.00978937 s)
+Step3 (n=10,m=5): final covers size = 0  (time 15.105 s)
+No final cover found at level 10.
+Times summary: step1=195.063 s, step2=0.00978937 s, step3=15.105 s
+Execution end: 2026-09-12T12:52:37+0100
+Status: OK
+Runtime_seconds: 211
+=== RUN END: prime=277 | runtime=211s ===
+
+=== RUN START: 2026-09-12T12:52:37+0100 | prime=281 | K=9 ===
+Compiling (PRIME=281 K=9) ...
+=== EXECUTING: binary for PRIME=281 ===
+Execution start: 2026-09-12T12:52:38+0100
+Parameters: p=281, k=9 (k+1 = 10)
+Step1 (n=1): S size = 840  (time 318.354 s)
+Step2 (n=2,m=2): T size = 140  (time 0.016968 s)
+Step3 (n=10,m=5): final covers size = 0  (time 10.7021 s)
+No final cover found at level 10.
+Times summary: step1=318.354 s, step2=0.016968 s, step3=10.7021 s
+Execution end: 2026-09-12T12:58:08+0100
+Status: OK
+Runtime_seconds: 330
+=== RUN END: prime=281 | runtime=330s ===
+
+=== RUN START: 2026-09-12T12:58:08+0100 | prime=283 | K=9 ===
+Compiling (PRIME=283 K=9) ...
+=== EXECUTING: binary for PRIME=283 ===
+Execution start: 2026-09-12T12:58:09+0100
+Parameters: p=283, k=9 (k+1 = 10)
+Step1 (n=1): S size = 987  (time 291.696 s)
+Step2 (n=2,m=2): T size = 282  (time 0.0262819 s)
+Step3 (n=10,m=5): final covers size = 0  (time 26.3085 s)
+No final cover found at level 10.
+Times summary: step1=291.696 s, step2=0.0262819 s, step3=26.3085 s
+Execution end: 2026-09-12T13:03:28+0100
+Status: OK
+Runtime_seconds: 319
+=== RUN END: prime=283 | runtime=319s ===
+
+=== RUN START: 2026-09-12T13:03:28+0100 | prime=293 | K=9 ===
+Compiling (PRIME=293 K=9) ...
+=== EXECUTING: binary for PRIME=293 ===
+Execution start: 2026-09-12T13:03:30+0100
+Parameters: p=293, k=9 (k+1 = 10)
+Step1 (n=1): S size = 730  (time 361.306 s)
+Step2 (n=2,m=2): T size = 146  (time 0.0271735 s)
+Step3 (n=10,m=5): final covers size = 0  (time 14.0966 s)
+No final cover found at level 10.
+Times summary: step1=361.306 s, step2=0.0271735 s, step3=14.0966 s
+Execution end: 2026-09-12T13:09:45+0100
+Status: OK
+Runtime_seconds: 375
+=== RUN END: prime=293 | runtime=375s ===
+
+=== RUN START: 2026-09-12T13:09:45+0100 | prime=307 | K=9 ===
+Compiling (PRIME=307 K=9) ...
+=== EXECUTING: binary for PRIME=307 ===
+Execution start: 2026-09-12T13:09:47+0100
+Parameters: p=307, k=9 (k+1 = 10)
+Step1 (n=1): S size = 1224  (time 368.43 s)
+Step2 (n=2,m=2): T size = 306  (time 0.0311696 s)
+Step3 (n=10,m=5): final covers size = 0  (time 28.5621 s)
+No final cover found at level 10.
+Times summary: step1=368.43 s, step2=0.0311696 s, step3=28.5621 s
+Execution end: 2026-09-12T13:16:25+0100
+Status: OK
+Runtime_seconds: 398
+=== RUN END: prime=307 | runtime=398s ===
+
+=== RUN START: 2026-09-12T13:16:25+0100 | prime=311 | K=9 ===
+Compiling (PRIME=311 K=9) ...
+=== EXECUTING: binary for PRIME=311 ===
+Execution start: 2026-09-12T13:16:26+0100
+Parameters: p=311, k=9 (k+1 = 10)
+Step1 (n=1): S size = 620  (time 558.74 s)
+Step2 (n=2,m=2): T size = 155  (time 0.0119798 s)
+Step3 (n=10,m=5): final covers size = 0  (time 12.2139 s)
+No final cover found at level 10.
+Times summary: step1=558.74 s, step2=0.0119798 s, step3=12.2139 s
+Execution end: 2026-09-12T13:25:58+0100
+Status: OK
+Runtime_seconds: 572
+=== RUN END: prime=311 | runtime=572s ===
+
+=== RUN START: 2026-09-12T13:25:58+0100 | prime=313 | K=9 ===
+Compiling (PRIME=313 K=9) ...
+=== EXECUTING: binary for PRIME=313 ===
+Execution start: 2026-09-12T13:25:59+0100
+Parameters: p=313, k=9 (k+1 = 10)
+Step1 (n=1): S size = 468  (time 516.118 s)
+Step2 (n=2,m=2): T size = 312  (time 0.0127712 s)
+Step3 (n=10,m=5): final covers size = 0  (time 28.69 s)
+No final cover found at level 10.
+Times summary: step1=516.118 s, step2=0.0127712 s, step3=28.69 s
+Execution end: 2026-09-12T13:35:05+0100
+Status: OK
+Runtime_seconds: 546
+=== RUN END: prime=313 | runtime=546s ===
+
+=== RUN START: 2026-09-12T13:35:05+0100 | prime=317 | K=9 ===
+Compiling (PRIME=317 K=9) ...
+=== EXECUTING: binary for PRIME=317 ===
+Execution start: 2026-09-12T13:35:07+0100
+Parameters: p=317, k=9 (k+1 = 10)
+Step1 (n=1): S size = 316  (time 408.071 s)
+Step2 (n=2,m=2): T size = 158  (time 0.0125315 s)
+Step3 (n=10,m=5): final covers size = 0  (time 13.2879 s)
+No final cover found at level 10.
+Times summary: step1=408.071 s, step2=0.0125315 s, step3=13.2879 s
+Execution end: 2026-09-12T13:42:09+0100
+Status: OK
+Runtime_seconds: 422
+=== RUN END: prime=317 | runtime=422s ===
+
+=== RUN START: 2026-09-12T13:42:09+0100 | prime=331 | K=9 ===
+Compiling (PRIME=331 K=9) ...
+=== EXECUTING: binary for PRIME=331 ===
+Execution start: 2026-09-12T13:42:10+0100
+Parameters: p=331, k=9 (k+1 = 10)
+Step1 (n=1): S size = 1485  (time 842.161 s)
+Step2 (n=2,m=2): T size = 330  (time 0.0294885 s)
+Step3 (n=10,m=5): final covers size = 0  (time 28.9451 s)
+No final cover found at level 10.
+Times summary: step1=842.161 s, step2=0.0294885 s, step3=28.9451 s
+Execution end: 2026-09-12T13:56:42+0100
+Status: OK
+Runtime_seconds: 872
+=== RUN END: prime=331 | runtime=872s ===
+
+=== RUN START: 2026-09-12T13:56:42+0100 | prime=337 | K=9 ===
+Compiling (PRIME=337 K=9) ...
+=== EXECUTING: binary for PRIME=337 ===
+Execution start: 2026-09-12T13:56:43+0100
+Parameters: p=337, k=9 (k+1 = 10)
+Step1 (n=1): S size = 336  (time 601.367 s)
+Step2 (n=2,m=2): T size = 168  (time 0.00932342 s)
+Step3 (n=10,m=5): final covers size = 0  (time 17.5013 s)
+No final cover found at level 10.
+Times summary: step1=601.367 s, step2=0.00932342 s, step3=17.5013 s
+Execution end: 2026-09-12T14:07:02+0100
+Status: OK
+Runtime_seconds: 619
+=== RUN END: prime=337 | runtime=619s ===
+
+=== RUN START: 2026-09-12T14:07:02+0100 | prime=347 | K=9 ===
+Compiling (PRIME=347 K=9) ...
+=== EXECUTING: binary for PRIME=347 ===
+Execution start: 2026-09-12T14:07:04+0100
+Parameters: p=347, k=9 (k+1 = 10)
+Step1 (n=1): S size = 346  (time 710.993 s)
+Step2 (n=2,m=2): T size = 173  (time 0.0116444 s)
+Step3 (n=10,m=5): final covers size = 0  (time 16.5176 s)
+No final cover found at level 10.
+Times summary: step1=710.993 s, step2=0.0116444 s, step3=16.5176 s
+Execution end: 2026-09-12T14:19:12+0100
+Status: OK
+Runtime_seconds: 728
+=== RUN END: prime=347 | runtime=728s ===
+
+=== RUN START: 2026-09-12T14:19:12+0100 | prime=349 | K=9 ===
+Compiling (PRIME=349 K=9) ...
+=== EXECUTING: binary for PRIME=349 ===
+Execution start: 2026-09-12T14:19:13+0100
+Parameters: p=349, k=9 (k+1 = 10)
+Step1 (n=1): S size = 522  (time 665.248 s)
+Step2 (n=2,m=2): T size = 174  (time 0.0127574 s)
+Step3 (n=10,m=5): final covers size = 0  (time 18.2424 s)
+No final cover found at level 10.
+Times summary: step1=665.248 s, step2=0.0127574 s, step3=18.2424 s
+Execution end: 2026-09-12T14:30:37+0100
+Status: OK
+Runtime_seconds: 684
+=== RUN END: prime=349 | runtime=684s ===
+
+=== RUN START: 2026-09-12T14:30:37+0100 | prime=353 | K=9 ===
+Compiling (PRIME=353 K=9) ...
+=== EXECUTING: binary for PRIME=353 ===
+Execution start: 2026-09-12T14:30:38+0100
+Parameters: p=353, k=9 (k+1 = 10)
+Step1 (n=1): S size = 352  (time 925.716 s)
+Step2 (n=2,m=2): T size = 176  (time 0.0115127 s)
+Step3 (n=10,m=5): final covers size = 0  (time 18.732 s)
+No final cover found at level 10.
+Times summary: step1=925.716 s, step2=0.0115127 s, step3=18.732 s
+Execution end: 2026-09-12T14:46:23+0100
+Status: OK
+Runtime_seconds: 945
+=== RUN END: prime=353 | runtime=945s ===
+
+=== RUN START: 2026-09-12T14:46:23+0100 | prime=359 | K=9 ===
+Compiling (PRIME=359 K=9) ...
+=== EXECUTING: binary for PRIME=359 ===
+Execution start: 2026-09-12T14:46:25+0100
+Parameters: p=359, k=9 (k+1 = 10)
+Step1 (n=1): S size = 358  (time 675.238 s)
+Step2 (n=2,m=2): T size = 179  (time 0.00940204 s)
+Step3 (n=10,m=5): final covers size = 0  (time 15.7818 s)
+No final cover found at level 10.
+Times summary: step1=675.238 s, step2=0.00940204 s, step3=15.7818 s
+Execution end: 2026-09-12T14:57:56+0100
+Status: OK
+Runtime_seconds: 691
+=== RUN END: prime=359 | runtime=691s ===
+
+=== RUN START: 2026-09-12T14:57:56+0100 | prime=367 | K=9 ===
+Compiling (PRIME=367 K=9) ...
+=== EXECUTING: binary for PRIME=367 ===
+Execution start: 2026-09-12T14:57:58+0100
+Parameters: p=367, k=9 (k+1 = 10)
+Step1 (n=1): S size = 183  (time 911.854 s)
+Step2 (n=2,m=2): T size = 183  (time 0.00594225 s)
+Step3 (n=10,m=5): final covers size = 0  (time 17.3538 s)
+No final cover found at level 10.
+Times summary: step1=911.854 s, step2=0.00594225 s, step3=17.3538 s
+Execution end: 2026-09-12T15:13:27+0100
+Status: OK
+Runtime_seconds: 929
+=== RUN END: prime=367 | runtime=929s ===
+
+=== RUN START: 2026-09-12T15:13:27+0100 | prime=373 | K=9 ===
+Compiling (PRIME=373 K=9) ...
+=== EXECUTING: binary for PRIME=373 ===
+Execution start: 2026-09-12T15:13:28+0100
+Parameters: p=373, k=9 (k+1 = 10)
+Step1 (n=1): S size = 186  (time 1303.46 s)
+Step2 (n=2,m=2): T size = 186  (time 0.00739775 s)
+Step3 (n=10,m=5): final covers size = 0  (time 15.14 s)
+No final cover found at level 10.
+Times summary: step1=1303.46 s, step2=0.00739775 s, step3=15.14 s
+Execution end: 2026-09-12T15:35:28+0100
+Status: OK
+Runtime_seconds: 1320
+=== RUN END: prime=373 | runtime=1320s ===
+
+=== RUN START: 2026-09-12T15:35:28+0100 | prime=379 | K=9 ===
+Compiling (PRIME=379 K=9) ...
+=== EXECUTING: binary for PRIME=379 ===
+Execution start: 2026-09-12T15:35:29+0100
+Parameters: p=379, k=9 (k+1 = 10)
+Step1 (n=1): S size = 378  (time 906.423 s)
+Step2 (n=2,m=2): T size = 189  (time 0.0101971 s)
+Step3 (n=10,m=5): final covers size = 0  (time 16.4175 s)
+No final cover found at level 10.
+Times summary: step1=906.423 s, step2=0.0101971 s, step3=16.4175 s
+Execution end: 2026-09-12T15:50:52+0100
+Status: OK
+Runtime_seconds: 923
+=== RUN END: prime=379 | runtime=923s ===
+
+=== RUN START: 2026-09-12T15:50:52+0100 | prime=383 | K=9 ===
+Compiling (PRIME=383 K=9) ...
+=== EXECUTING: binary for PRIME=383 ===
+Execution start: 2026-09-12T15:50:54+0100
+Parameters: p=383, k=9 (k+1 = 10)
+Step1 (n=1): S size = 764  (time 1494.15 s)
+Step2 (n=2,m=2): T size = 191  (time 0.0181926 s)
+Step3 (n=10,m=5): final covers size = 0  (time 16.6008 s)
+No final cover found at level 10.
+Times summary: step1=1494.15 s, step2=0.0181926 s, step3=16.6008 s
+Execution end: 2026-09-12T16:16:05+0100
+Status: OK
+Runtime_seconds: 1511
+=== RUN END: prime=383 | runtime=1511s ===
+
+=== RUN START: 2026-09-12T16:16:05+0100 | prime=389 | K=9 ===
+Compiling (PRIME=389 K=9) ...
+=== EXECUTING: binary for PRIME=389 ===
+Execution start: 2026-09-12T16:16:06+0100
+Parameters: p=389, k=9 (k+1 = 10)
+Step1 (n=1): S size = 582  (time 1072.6 s)
+Step2 (n=2,m=2): T size = 194  (time 0.0271216 s)
+Step3 (n=10,m=5): final covers size = 0  (time 17.7345 s)
+No final cover found at level 10.
+Times summary: step1=1072.6 s, step2=0.0271216 s, step3=17.7345 s
+Execution end: 2026-09-12T16:34:17+0100
+Status: OK
+Runtime_seconds: 1091
+=== RUN END: prime=389 | runtime=1091s ===
+
+=== RUN START: 2026-09-12T16:34:17+0100 | prime=397 | K=9 ===
+Compiling (PRIME=397 K=9) ...
+=== EXECUTING: binary for PRIME=397 ===
+Execution start: 2026-09-12T16:34:19+0100
+Parameters: p=397, k=9 (k+1 = 10)
+Step1 (n=1): S size = 396  (time 1406.87 s)
+Step2 (n=2,m=2): T size = 198  (time 0.0127082 s)
+Step3 (n=10,m=5): final covers size = 0  (time 18.4228 s)
+No final cover found at level 10.
+Times summary: step1=1406.87 s, step2=0.0127082 s, step3=18.4228 s
+Execution end: 2026-09-12T16:58:05+0100
+Status: OK
+Runtime_seconds: 1426
+=== RUN END: prime=397 | runtime=1426s ===
+
+=== RUN START: 2026-09-12T16:58:05+0100 | prime=401 | K=9 ===
+Compiling (PRIME=401 K=9) ...
+=== EXECUTING: binary for PRIME=401 ===
+Execution start: 2026-09-12T16:58:06+0100
+Parameters: p=401, k=9 (k+1 = 10)
+Step1 (n=1): S size = 400  (time 2213.28 s)
+Step2 (n=2,m=2): T size = 200  (time 0.0117255 s)
+Step3 (n=10,m=5): final covers size = 0  (time 18.1793 s)
+No final cover found at level 10.
+Times summary: step1=2213.28 s, step2=0.0117255 s, step3=18.1793 s
+Execution end: 2026-09-12T17:35:19+0100
+Status: OK
+Runtime_seconds: 2233
+=== RUN END: prime=401 | runtime=2233s ===
+
